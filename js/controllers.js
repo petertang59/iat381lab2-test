@@ -10,7 +10,10 @@ phonecatApp.controller('PhoneListCtrl', function ($scope) {
      'age': 2},
     {'name': 'MOTOROLA XOOM™',
      'snippet': 'The Next, Next Generation tablet.',
-     'age': 3}
+     'age': 3},
+     {'name': 'Another phone',
+     'snippet': 'The Next, Next Generation tablet.',
+     'age': 4}
   ];
 
   $scope.orderProp = 'age';
