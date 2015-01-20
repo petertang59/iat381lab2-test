@@ -1,7 +1,11 @@
 p {
-	font-family: serif;
+	font-family: Georgia;
 }
 
+
+
 li {
-	text-decoration: none;
+	list-style-type: none;
+	font-family: Georgia;
+	font-size: 14px;
 }
